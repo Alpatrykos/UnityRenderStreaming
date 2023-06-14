@@ -361,3 +361,6 @@ Assets/Samples/
 WebApp/**/coverage/*
 
 .DS_Store
+
+/TestProjects
+
